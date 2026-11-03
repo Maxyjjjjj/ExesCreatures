@@ -18,13 +18,12 @@ jobs:
     - name: Set up JDK 21
       uses: actions/setup-java@v4
       with:
-        distribution: 'temurin' # 'zulu' is also widely used for MC dev
-        java-version: '21'      # Use '17' if you are building for MC 1.20.1 or below
+        distribution: 'temurin'
+        java-version: '21'
 
     - name: Setup Gradle
       uses: gradle/actions/setup-gradle@v4
-      # This action automatically handles smart caching for Gradle dependencies and wrappers
-
+      
     - name: Grant Execute Permission to Gradlew
       run: chmod +x gradlew
 
