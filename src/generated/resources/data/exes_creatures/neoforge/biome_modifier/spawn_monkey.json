@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#c:is_tree/coniferous",
+  "spawners": {
+    "type": "exes_creatures:monkey",
+    "maxCount": 6,
+    "minCount": 2,
+    "weight": 6
+  }
+}

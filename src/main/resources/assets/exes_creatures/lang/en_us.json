@@ -1,0 +1,31 @@
+{
+    "entity.exes_creatures.saola": "Saola",
+    "item.exes_creatures.saola_spawn_egg": "Saola Spawn Egg",
+    "subtitles.entity.saola.ambient": "Saola bleats",
+    "subtitles.entity.saola.hurt": "Saola hurts",
+    "subtitles.entity.saola.death": "Saola dies",
+
+    "entity.exes_creatures.serval": "Serval",
+    "item.exes_creatures.serval_spawn_egg": "Serval Spawn Egg",
+    "subtitles.entity.serval.ambient": "Serval meows",
+    "subtitles.entity.serval.hurt": "Serval hurts",
+    "subtitles.entity.serval.death": "Serval dies",
+
+    "entity.exes_creatures.jay": "Jay",
+    "item.exes_creatures.jay_spawn_egg": "Jay Spawn Egg",
+    "subtitles.entity.jay.ambient": "Jay shrieks",
+    "subtitles.entity.jay.hurt": "Jay hurts",
+    "subtitles.entity.jay.death": "Jay dies",
+
+    "entity.exes_creatures.monkey": "Monkey",
+    "item.exes_creatures.monkey_spawn_egg": "Monkey Spawn Egg",
+    "subtitles.entity.monkey.ambient": "Monkey yelps",
+    "subtitles.entity.monkey.hurt": "Monkey hurts",
+    "subtitles.entity.monkey.death": "Monkey dies",
+
+    "entity.exes_creatures.philippine_eagle": "Philippine Eagle",
+    "item.exes_creatures.philippine_eagle_spawn_egg": "Philippine Eagle Spawn Egg",
+    "subtitles.entity.philippine_eagle.ambient": "Philippine Eagle whistles",
+    "subtitles.entity.philippine_eagle.hurt": "Philippine Eagle hurts",
+    "subtitles.entity.philippine_eagle.death": "Philippine Eagle dies"
+}

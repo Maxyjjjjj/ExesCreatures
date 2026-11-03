@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "minecraft:bamboo_jungle",
+  "spawners": {
+    "type": "exes_creatures:saola",
+    "maxCount": 2,
+    "minCount": 1,
+    "weight": 2
+  }
+}

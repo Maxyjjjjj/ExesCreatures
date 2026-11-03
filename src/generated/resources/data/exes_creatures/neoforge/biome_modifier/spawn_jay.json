@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#c:is_tree/deciduous",
+  "spawners": {
+    "type": "exes_creatures:jay",
+    "maxCount": 6,
+    "minCount": 2,
+    "weight": 4
+  }
+}

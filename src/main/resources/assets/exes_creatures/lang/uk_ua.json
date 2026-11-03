@@ -1,0 +1,31 @@
+{
+    "entity.exes_creatures.saola": "Саола",
+    "item.exes_creatures.saola_spawn_egg": "Яйце виклику саоли",
+    "subtitles.entity.saola.ambient": "Саола мекає",
+    "subtitles.entity.saola.hurt": "Саолу поранено",
+    "subtitles.entity.saola.death": "Саола гине",
+
+    "entity.exes_creatures.serval": "Сервал",
+    "item.exes_creatures.serval_spawn_egg": "Яйце виклику сервала",
+    "subtitles.entity.serval.ambient": "Сервал нявчить",
+    "subtitles.entity.serval.hurt": "Сервала поранено",
+    "subtitles.entity.serval.death": "Сервал гине",
+
+    "entity.exes_creatures.jay": "Сойка",
+    "item.exes_creatures.jay_spawn_egg": "Яйце виклкиу сойки",
+    "subtitles.entity.jay.ambient": "Сойка верещить",
+    "subtitles.entity.jay.hurt": "Сойку поранено",
+    "subtitles.entity.jay.death": "Сойка гине",
+
+    "entity.exes_creatures.monkey": "Мавпа",
+    "item.exes_creatures.monkey_spawn_egg": "Яйце виклику мавпи",
+    "subtitles.entity.monkey.ambient": "Мавпа кричить",
+    "subtitles.entity.monkey.hurt": "Мавпу поранено",
+    "subtitles.entity.monkey.death": "Мавпа гине",
+
+    "entity.exes_creatures.philippine_eagle": "Філіппінський орел",
+    "item.exes_creatures.philippine_eagle_spawn_egg": "Яйце виклику філіппінського орла",
+    "subtitles.entity.philippine_eagle.ambient": "Філіппінський орел свистить",
+    "subtitles.entity.philippine_eagle.hurt": "Філіппінського орла поранено",
+    "subtitles.entity.philippine_eagle.death": "Філіппінський орел гине"
+}

@@ -1,0 +1,31 @@
+{
+    "entity.exes_creatures.saola": "Саола",
+    "item.exes_creatures.saola_spawn_egg": "Яйцо призыва саолы",
+    "subtitles.entity.saola.ambient": "Саола блеет",
+    "subtitles.entity.saola.hurt": "Саола ранена",
+    "subtitles.entity.saola.death": "Саола погибает",
+
+    "entity.exes_creatures.serval": "Сервал",
+    "item.exes_creatures.serval_spawn_egg": "Яйцо призыва сервала",
+    "subtitles.entity.serval.ambient": "Сервал мяукает",
+    "subtitles.entity.serval.hurt": "Сервал ранен",
+    "subtitles.entity.serval.death": "Сервал погибает",
+
+    "entity.exes_creatures.jay": "Сойка",
+    "item.exes_creatures.jay_spawn_egg": "Яйцо призыва сойки",
+    "subtitles.entity.jay.ambient": "Сойка визжит",
+    "subtitles.entity.jay.hurt": "Сойка ранена",
+    "subtitles.entity.jay.death": "Сойка погибает",
+
+    "entity.exes_creatures.monkey": "Обезьяна",
+    "item.exes_creatures.monkey_spawn_egg": "Яйцо призыва обезьяны",
+    "subtitles.entity.monkey.ambient": "Обезьяна кричит",
+    "subtitles.entity.monkey.hurt": "Обезьяна ранена",
+    "subtitles.entity.monkey.death": "Обезьяна погибает",
+
+    "entity.exes_creatures.philippine_eagle": "Филиппинский орёл",
+    "item.exes_creatures.philippine_eagle_spawn_egg": "Яйцо призыва филиппинского орла",
+    "subtitles.entity.philippine_eagle.ambient": "Филиппинский орёл свистит",
+    "subtitles.entity.philippine_eagle.hurt": "Филиппинский орёл поранено",
+    "subtitles.entity.philippine_eagle.death": "Филиппинский орёл погибает"
+}

@@ -1,0 +1,119 @@
+{
+    "entity.saola.ambient": {
+        "sounds": [
+            "exes_creatures:entity/saola_ambient"
+        ],
+        "subtitle": "subtitles.entity.saola.ambient"
+    },
+    "entity.saola.hurt": {
+        "sounds": [
+            "exes_creatures:entity/saola_hurt"
+        ],
+        "subtitle": "subtitles.entity.saola.hurt"
+    },
+    "entity.saola.death": {
+        "sounds": [
+            "exes_creatures:entity/saola_hurt"
+        ],
+        "subtitle": "subtitles.entity.saola.death"
+    },
+    "entity.serval.ambient": {
+        "sounds": [
+            "exes_creatures:entity/serval_ambient_0",
+            "exes_creatures:entity/serval_ambient_1",
+            "exes_creatures:entity/serval_ambient_2",
+            "exes_creatures:entity/serval_ambient_3"
+        ],
+        "subtitle": "subtitles.entity.serval.ambient"
+    },
+    "entity.serval.hurt": {
+        "sounds": [
+            "exes_creatures:entity/serval_hurt_0",
+            "exes_creatures:entity/serval_hurt_1",
+            "exes_creatures:entity/serval_hurt_2"
+        ],
+        "subtitle": "subtitles.entity.serval.hurt"
+    },
+    "entity.serval.death": {
+        "sounds": [
+            "exes_creatures:entity/serval_death_0",
+            "exes_creatures:entity/serval_death_1",
+            "exes_creatures:entity/serval_death_2"
+        ],
+        "subtitle": "subtitles.entity.serval.death"
+    },
+    "entity.jay.ambient": {
+        "sounds": [
+            "exes_creatures:entity/jay_ambient_0",
+            "exes_creatures:entity/jay_ambient_1",
+            "exes_creatures:entity/jay_ambient_2",
+            "exes_creatures:entity/jay_ambient_3"
+        ],
+        "subtitle": "subtitles.entity.jay.ambient"
+    },
+    "entity.jay.hurt": {
+        "sounds": [
+            "exes_creatures:entity/jay_hurt_0",
+            "exes_creatures:entity/jay_hurt_1",
+            "exes_creatures:entity/jay_hurt_2"
+        ],
+        "subtitle": "subtitles.entity.jay.hurt"
+    },
+    "entity.jay.death": {
+        "sounds": [
+            "exes_creatures:entity/jay_hurt_0",
+            "exes_creatures:entity/jay_hurt_1",
+            "exes_creatures:entity/jay_hurt_2"
+        ],
+        "subtitle": "subtitles.entity.jay.death"
+    },
+    "entity.monkey.ambient": {
+        "sounds": [
+            "exes_creatures:entity/monkey_ambient_0",
+            "exes_creatures:entity/monkey_ambient_1",
+            "exes_creatures:entity/monkey_ambient_2",
+            "exes_creatures:entity/monkey_ambient_3"
+        ],
+        "subtitle": "subtitles.entity.monkey.ambient"
+    },
+    "entity.monkey.hurt": {
+        "sounds": [
+            "exes_creatures:entity/monkey_hurt_0",
+            "exes_creatures:entity/monkey_hurt_1",
+            "exes_creatures:entity/monkey_hurt_2"
+        ],
+        "subtitle": "subtitles.entity.monkey.hurt"
+    },
+    "entity.monkey.death": {
+        "sounds": [
+            "exes_creatures:entity/monkey_hurt_0",
+            "exes_creatures:entity/monkey_hurt_1",
+            "exes_creatures:entity/monkey_hurt_2"
+        ],
+        "subtitle": "subtitles.entity.monkey.death"
+    },
+    "entity.philippine_eagle.ambient": {
+        "sounds": [
+            "exes_creatures:entity/philippine_eagle_ambient_0",
+            "exes_creatures:entity/philippine_eagle_ambient_1",
+            "exes_creatures:entity/philippine_eagle_ambient_2"
+        ],
+        "subtitle": "subtitles.entity.philippine_eagle.ambient"
+    },
+    "entity.philippine_eagle.hurt": {
+        "sounds": [
+            "exes_creatures:entity/philippine_eagle_hurt_0",
+            "exes_creatures:entity/philippine_eagle_hurt_1",
+            "exes_creatures:entity/philippine_eagle_hurt_2"
+        ],
+        "subtitle": "subtitles.entity.philippine_eagle.hurt"
+    },
+    "entity.philippine_eagle.death": {
+        "sounds": [
+            "exes_creatures:entity/philippine_eagle_hurt_0",
+            "exes_creatures:entity/philippine_eagle_hurt_1",
+            "exes_creatures:entity/philippine_eagle_hurt_2"
+        ],
+        "subtitle": "subtitles.entity.philippine_eagle.death"
+    }
+}
